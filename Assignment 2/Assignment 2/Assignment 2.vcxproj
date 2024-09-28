@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="merging template queues.cpp" />
     <ClCompile Include="palindrome with stack and queue.cpp" />
     <ClCompile Include="pre-post calculator.cpp" />
     <ClCompile Include="Tower Of Hanoi.cpp" />
