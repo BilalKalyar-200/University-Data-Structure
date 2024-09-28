@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\remove dublicates from linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\pigLatin form of string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\pigLatin form of string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\reversing linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\reversing linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\doubly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\doubly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\Singly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\Singly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "remove dublicates from linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\remove dublicates from linked list.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp",
+              "RelativeToolTip": "Assignment 1\\remove dublicates from linked list.cpp",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAgwPoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T08:00:33.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pigLatin form of string.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\pigLatin form of string.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\pigLatin form of string.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\pigLatin form of string.cpp",
+              "RelativeToolTip": "Assignment 1\\pigLatin form of string.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:57:52.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "doubly linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\doubly linked list.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\doubly linked list.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\doubly linked list.cpp",
+              "RelativeToolTip": "Assignment 1\\doubly linked list.cpp",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAqwDcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:56:13.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "circular linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\circular linked list.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\circular linked list.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\circular linked list.cpp",
+              "RelativeToolTip": "Assignment 1\\circular linked list.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwD0BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:55:57.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "reversing linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\reversing linked list.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\reversing linked list.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\reversing linked list.cpp",
+              "RelativeToolTip": "Assignment 1\\reversing linked list.cpp",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAqwD8BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:55:41.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singly linked list.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\Singly linked list.cpp",
+              "RelativeDocumentMoniker": "Assignment 1\\Singly linked list.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Assignment 1\\Assignment 1\\Singly linked list.cpp",
+              "RelativeToolTip": "Assignment 1\\Singly linked list.cpp",
+              "ViewState": "AQIAAAoBAAAAAAAAAAAqwCcBAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:55:13.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
