@@ -33,5 +33,14 @@
     <ClCompile Include="remove dublicates from linked list.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="traffic signal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="music player using circular linked list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="application for company.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

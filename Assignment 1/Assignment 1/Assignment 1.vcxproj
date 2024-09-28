@@ -127,12 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="application for company.cpp" />
     <ClCompile Include="circular linked list.cpp" />
     <ClCompile Include="doubly linked list.cpp" />
+    <ClCompile Include="music player using circular linked list.cpp" />
     <ClCompile Include="pigLatin form of string.cpp" />
     <ClCompile Include="remove dublicates from linked list.cpp" />
     <ClCompile Include="reversing linked list.cpp" />
     <ClCompile Include="Singly linked list.cpp" />
+    <ClCompile Include="traffic signal.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
