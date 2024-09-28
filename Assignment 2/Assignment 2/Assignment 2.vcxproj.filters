@@ -18,5 +18,8 @@
     <ClCompile Include="Tower Of Hanoi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pre-post calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
