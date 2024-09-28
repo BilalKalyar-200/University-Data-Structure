@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\Assignment 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\palindrome with stack and queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\pre-post calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\pre-post calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,19 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pre-post calculator.cpp",
-              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\pre-post calculator.cpp",
-              "RelativeDocumentMoniker": "Assignment 2\\pre-post calculator.cpp",
-              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\pre-post calculator.cpp",
-              "RelativeToolTip": "Assignment 2\\pre-post calculator.cpp",
-              "ViewState": "AQIAACwBAAAAAAAAAAAAAEgBAAATAAAA",
+              "Title": "palindrome with stack and queue.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp",
+              "RelativeDocumentMoniker": "Assignment 2\\palindrome with stack and queue.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp",
+              "RelativeToolTip": "Assignment 2\\palindrome with stack and queue.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwIEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T07:17:39.455Z",
+              "WhenOpened": "2024-09-28T07:25:49.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "pre-post calculator.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\pre-post calculator.cpp",
+              "RelativeDocumentMoniker": "Assignment 2\\pre-post calculator.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\pre-post calculator.cpp",
+              "RelativeToolTip": "Assignment 2\\pre-post calculator.cpp",
+              "ViewState": "AQIAADYBAAAAAAAAAAAqwFMBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:17:39.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tower Of Hanoi.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\Tower Of Hanoi.cpp",
               "RelativeDocumentMoniker": "Assignment 2\\Tower Of Hanoi.cpp",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Assignment 2\\Tower Of Hanoi.cpp",
               "ViewState": "AQIAALYAAAAAAAAAAAAqwNMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T07:07:55.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T07:07:55.578Z"
             }
           ]
         }
