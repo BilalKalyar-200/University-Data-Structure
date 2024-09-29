@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\merging template queues.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\palindrome with stack and queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\Tower Of Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\Tower Of Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\pre-post calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\pre-post calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\Tower Of Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\Tower Of Hanoi.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\palindrome with stack and queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F94A1514-FB47-47BE-A07E-50EF84A09848}|Assignment 2\\Assignment 2.vcxproj|solutionrelative:Assignment 2\\deque.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +30,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "deque.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\deque.cpp",
+              "RelativeDocumentMoniker": "Assignment 2\\deque.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\deque.cpp",
+              "RelativeToolTip": "Assignment 2\\deque.cpp",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAqwLAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T11:03:53.366Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,20 +53,20 @@
               "RelativeDocumentMoniker": "Assignment 2\\merging template queues.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\merging template queues.cpp",
               "RelativeToolTip": "Assignment 2\\merging template queues.cpp",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAqwHYAAAABAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T07:43:44.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "palindrome with stack and queue.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp",
               "RelativeDocumentMoniker": "Assignment 2\\palindrome with stack and queue.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\palindrome with stack and queue.cpp",
               "RelativeToolTip": "Assignment 2\\palindrome with stack and queue.cpp",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAqwIEAAAArAAAA",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAqwJIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T07:25:49.773Z",
               "EditorCaption": ""
@@ -64,11 +81,12 @@
               "RelativeToolTip": "Assignment 2\\pre-post calculator.cpp",
               "ViewState": "AQIAADYBAAAAAAAAAAAqwFMBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T07:17:39.455Z"
+              "WhenOpened": "2024-09-28T07:17:39.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Tower Of Hanoi.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 2\\Assignment 2\\Tower Of Hanoi.cpp",
               "RelativeDocumentMoniker": "Assignment 2\\Tower Of Hanoi.cpp",
@@ -76,7 +94,8 @@
               "RelativeToolTip": "Assignment 2\\Tower Of Hanoi.cpp",
               "ViewState": "AQIAALYAAAAAAAAAAAAqwNMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T07:07:55.578Z"
+              "WhenOpened": "2024-09-28T07:07:55.578Z",
+              "EditorCaption": ""
             }
           ]
         }

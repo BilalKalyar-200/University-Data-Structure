@@ -5,10 +5,11 @@ class node {
 public:
 	node* next;
 	T data;
-	node(T val)
+	int size;
+	node(int size=0)
 	{
-		data = val;
 		next = NULL;
+		this->size = size;
 	}
 };
 template<class T>
@@ -33,6 +34,7 @@ public:
 			rear->next = ptr;
 			rear = ptr;
 		}
+
 	}
 	T dequeue()
 	{
@@ -69,51 +71,50 @@ public:
 		if (front == NULL) return true;
 		else return false;
 	}
-	void display() {
-		node<T>* current = front;
-		while (current != nullptr) {
-			cout << current->data << " ";
-			current = current->next;
+	void display(int QN,int n) 
+	{
+		cout << "\nShowing queues after merging\n\n";
+		for (int i = 0; i < QN; i++)
+		{
+			for (int j = 0; j < n; j++)
+			{
+				cout << i + 1 << "-" << dequeue() << " ";	//where i+1 shows the actual number of queue that was before merging
+			}
+			cout << endl;
 		}
 		cout << endl;
 	}
 
 };
 template<class T>
-void merge(Queue<T>& q1, Queue<T>& q2, Queue<T>& q3)
+void merge(Queue<T>& q1, Queue<T>& q2)
 {
-	q2.getrear()->next = q3.getfront();
 	q1.getrear()->next = q2.getfront();
-	q1.setrear(q3.getrear());
+	q1.setrear(q2.getrear());
 	q2.setfront(NULL);
 	q2.setrear(NULL);
-	q3.setfront(NULL);
-	q3.setrear(NULL);
 }
 int main()
 {
-	int val, c = 10;
-	Queue<int> q1, q2, q3;
-	cout << "Enter 10 numbers for 1st queue\n";
-	for (int i = 0; i < c; i++)
+	cout << "How many queues you want?";
+	int QN; cin >> QN;
+	Queue<int>* queues = new Queue<int>[QN];
+	cout << "How many elements you want in each queue: ";
+	int val; cin >> val;
+	for (int i = 0; i < QN; i++)
 	{
-		cin >> val;
-		q1.enqueue(val);
+		cout << "Enter " << val << " elements for queue " << i + 1 << "\n";
+		for (int j = 0; j < val; j++)
+		{
+			int n; cin >> n;	//change this if you want to take advantage of template (data type)
+			queues[i].enqueue(n);
+		}
 	}
+	for (int i = 1; i < QN; i++)
+	{
+		merge(queues[0], queues[i]);
+	}
+	queues[0].display(QN, val);		//paassing these to show actual queue number from which data is being retrieved
+	return 0;
 
-	cout << "Enter 10 numbers for 2nd queue\n";
-	for (int i = 0; i < c; i++)
-	{
-		cin >> val;
-		q2.enqueue(val);
-	}
-
-	cout << "Enter 10 numbers for 3rd queue\n";
-	for (int i = 0; i < c; i++)
-	{
-		cin >> val;
-		q3.enqueue(val);
-	}
-	merge(q1, q2, q3);
-	q1.display();
 }
