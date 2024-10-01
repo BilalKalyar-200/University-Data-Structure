@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\LAB6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\linkedlist_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\linkedlist_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\bank_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\bank_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\recursivesum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linkedlist_queue.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\linkedlist_queue.cpp",
+              "RelativeDocumentMoniker": "LAB6\\linkedlist_queue.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\linkedlist_queue.cpp",
+              "RelativeToolTip": "LAB6\\linkedlist_queue.cpp",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAcwH0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T10:09:04.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "recursivesum.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp",
+              "RelativeDocumentMoniker": "LAB6\\recursivesum.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp",
+              "RelativeToolTip": "LAB6\\recursivesum.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T10:03:38.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bank_queue.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\bank_queue.cpp",
+              "RelativeDocumentMoniker": "LAB6\\bank_queue.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\bank_queue.cpp",
+              "RelativeToolTip": "LAB6\\bank_queue.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwIAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T09:12:28.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
