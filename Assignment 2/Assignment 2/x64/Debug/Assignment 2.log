@@ -1,2 +1,5 @@
-﻿  merging template queues.cpp
+﻿  pre-post calculator.cpp
+E:\DS\University-Data-Structure\Assignment 2\Assignment 2\pre-post calculator.cpp(76,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\DS\University-Data-Structure\Assignment 2\Assignment 2\pre-post calculator.cpp(150,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\DS\University-Data-Structure\Assignment 2\Assignment 2\pre-post calculator.cpp(296,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
   Assignment 2.vcxproj -> E:\DS\University-Data-Structure\Assignment 2\x64\Debug\Assignment 2.exe
