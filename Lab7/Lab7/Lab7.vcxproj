@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="BFT.cpp" />
     <ClCompile Include="BFT_linkedlist.cpp" />
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="folder_with_array.cpp" />
     <ClCompile Include="tree_functions.cpp" />
     <ClCompile Include="tree_folder_system.cpp" />
