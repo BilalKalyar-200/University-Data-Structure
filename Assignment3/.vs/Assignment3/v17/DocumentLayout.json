@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\Assignment3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task5.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task5_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task1_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task2_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task7.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\Task7_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\Task7_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task4_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task4_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\Task7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\Task7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task6.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task6_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACB1D07A-0D63-4650-8B01-BC7E875A7A82}|Assignment3\\Assignment3.vcxproj|solutionrelative:Assignment3\\task6_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "task9.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task9.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task9.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task9.cpp",
+              "RelativeToolTip": "Assignment3\\task9.cpp",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T16:25:25.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "task5.h",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5.h",
+              "RelativeDocumentMoniker": "Assignment3\\task5.h",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5.h",
+              "RelativeToolTip": "Assignment3\\task5.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T15:35:01.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "task5_main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5_main.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task5_main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5_main.cpp",
+              "RelativeToolTip": "Assignment3\\task5_main.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T15:34:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task5.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task5.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task5.cpp",
+              "RelativeToolTip": "Assignment3\\task5.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T15:34:49.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "task1_main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1_main.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task1_main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1_main.cpp",
+              "RelativeToolTip": "Assignment3\\task1_main.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T15:16:57.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "task1.h",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1.h",
+              "RelativeDocumentMoniker": "Assignment3\\task1.h",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1.h",
+              "RelativeToolTip": "Assignment3\\task1.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T15:16:34.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task1_1.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1_1.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task1_1.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task1_1.cpp",
+              "RelativeToolTip": "Assignment3\\task1_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T06:01:37.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "task2_main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2_main.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task2_main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2_main.cpp",
+              "RelativeToolTip": "Assignment3\\task2_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T14:05:47.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "task2.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task2.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2.cpp",
+              "RelativeToolTip": "Assignment3\\task2.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T06:11:56.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "task4.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task4.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task4.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task4.cpp",
+              "RelativeToolTip": "Assignment3\\task4.cpp",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAIwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T06:40:28.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task7_main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\Task7_main.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\Task7_main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\Task7_main.cpp",
+              "RelativeToolTip": "Assignment3\\Task7_main.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T13:36:28.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "task7.h",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task7.h",
+              "RelativeDocumentMoniker": "Assignment3\\task7.h",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task7.h",
+              "RelativeToolTip": "Assignment3\\task7.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T13:33:22.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Task7.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\Task7.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\Task7.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\Task7.cpp",
+              "RelativeToolTip": "Assignment3\\Task7.cpp",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAIwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T10:51:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "task4_main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task4_main.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task4_main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task4_main.cpp",
+              "RelativeToolTip": "Assignment3\\task4_main.cpp",
+              "ViewState": "AQIAACkAAAAAAAAAAAAIwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T13:53:36.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "task2.h",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2.h",
+              "RelativeDocumentMoniker": "Assignment3\\task2.h",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task2.h",
+              "RelativeToolTip": "Assignment3\\task2.h",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T14:04:57.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "task6.h",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task6.h",
+              "RelativeDocumentMoniker": "Assignment3\\task6.h",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task6.h",
+              "RelativeToolTip": "Assignment3\\task6.h",
+              "ViewState": "AQIAANUAAAAAAAAAAAAIwOwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-26T13:39:38.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "task6_main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task6_main.cpp",
+              "RelativeDocumentMoniker": "Assignment3\\task6_main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment3\\Assignment3\\task6_main.cpp",
+              "RelativeToolTip": "Assignment3\\task6_main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T13:42:10.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

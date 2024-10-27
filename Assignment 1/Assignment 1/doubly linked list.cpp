@@ -126,6 +126,25 @@ public:
 			ptr->setnext(NULL);
 		}
 	}
+	void insertat_end(node* n)	//Time complexity = O(n) where n equals to number of nodes in list
+	{
+		if (head == NULL)
+		{
+			head = n;
+			head->setpre(NULL);
+			head->setnext(NULL);
+		}
+		else {
+			node* temp = head;
+			while (temp->getnext() != NULL)
+			{
+				temp = temp->getnext();
+			}
+			temp->setnext(n);
+			n->setpre(temp);
+			n->setnext(NULL);
+		}
+	}
 	void delte_first_node()	//Time complexity = O(1)
 	{
 		if (head == NULL)
@@ -228,7 +247,75 @@ public:
 			cout << "Key: " << temp->getkey() << " Data: " << temp->getdata() << endl;
 			temp = temp->getnext();
 		}
+	
 	}
+	node* gethead() {
+		return head;
+	}
+	void mid1()
+	{
+		doubly objodd, objeven;
+		node* temp_even = head;
+		node* temp_odd = head;
+		temp_even = head->getnext();
+		while (temp_odd->getnext() != NULL && temp_odd->getnext()->getnext() != nullptr) {
+			objodd.insertat_end(temp_odd);
+			objeven.insertat_end(temp_even);
+			temp_odd = temp_odd->getnext()->getnext();
+			temp_even = temp_even->getnext()->getnext();
+		}
+		node* temp = objodd.gethead();
+		while (temp->getnext() != NULL)
+		{
+			temp = temp->getnext();
+		}
+		temp->setnext(objeven.gethead());
+		objodd.display();
+	}
+
+	void mid2() {
+		doubly objodd, objeven;
+		node* temp_odd = head;
+		node* temp_even = head->getnext();
+
+		while (temp_odd != nullptr || temp_even != nullptr) 
+		{
+			if (temp_odd != nullptr) 
+			{
+				node* next_odd = NULL;
+				if (temp_odd->getnext() != nullptr) {
+					next_odd = temp_odd->getnext()->getnext();
+				}
+				objodd.insertat_end(new node(*temp_odd));
+				temp_odd = next_odd;
+			}
+
+			if (temp_even != nullptr)
+			{
+				node* next_even = NULL;
+				if (temp_even->getnext() != nullptr) {
+					next_even = temp_even->getnext()->getnext();
+				}
+				objeven.insertat_end(new node(*temp_even));
+				temp_even = next_even;
+			}
+		}
+
+		node* temp = objodd.gethead();
+		while (temp->getnext() != nullptr)
+		{
+			temp = temp->getnext();
+		}
+
+		temp->setnext(objeven.gethead());
+		//if (objeven.gethead() != nullptr)
+		{
+			objeven.gethead()->setpre(temp);
+		}
+
+		objodd.display();
+	}
+
 };
 void input(int& data, int& key)
 {
@@ -303,6 +390,8 @@ int main()
 			cout << "exititing\n";
 			break;
 		}
+		else if (ch == 10)
+			obj.mid2();
 		else {
 			cout << "Enter valid choice\n";
 			continue;

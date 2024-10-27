@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\AVL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|E:\\DS\\University-Data-Structure\\AVL\\AVL\\template_based_AVL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|solutionrelative:AVL\\template_based_AVL.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|E:\\DS\\University-Data-Structure\\AVL\\AVL\\AVL .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|solutionrelative:AVL\\AVL .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|E:\\DS\\University-Data-Structure\\AVL\\AVL\\Quiz q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|solutionrelative:AVL\\Quiz q1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|E:\\DS\\University-Data-Structure\\AVL\\AVL\\quiz q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|solutionrelative:AVL\\quiz q2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|E:\\DS\\University-Data-Structure\\AVL\\AVL\\AVL_Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2256F809-F00F-4674-950D-82E41F592F99}|AVL\\AVL.vcxproj|solutionrelative:AVL\\AVL_Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AVL_Array.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\AVL_Array.cpp",
+              "RelativeDocumentMoniker": "AVL\\AVL_Array.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\AVL_Array.cpp",
+              "RelativeToolTip": "AVL\\AVL_Array.cpp",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAuwDABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T15:52:41.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "template_based_AVL.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\template_based_AVL.cpp",
+              "RelativeDocumentMoniker": "AVL\\template_based_AVL.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\template_based_AVL.cpp",
+              "RelativeToolTip": "AVL\\template_based_AVL.cpp",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAwwMAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T15:25:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "quiz q2.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\quiz q2.cpp",
+              "RelativeDocumentMoniker": "AVL\\quiz q2.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\quiz q2.cpp",
+              "RelativeToolTip": "AVL\\quiz q2.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAADwBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T09:59:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz q1.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\Quiz q1.cpp",
+              "RelativeDocumentMoniker": "AVL\\Quiz q1.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\Quiz q1.cpp",
+              "RelativeToolTip": "AVL\\Quiz q1.cpp",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAkwJcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T09:11:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AVL .cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\AVL .cpp",
+              "RelativeDocumentMoniker": "AVL\\AVL .cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\AVL\\AVL\\AVL .cpp",
+              "RelativeToolTip": "AVL\\AVL .cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAKgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-20T07:32:33.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\Assignment 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\application for company.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\application for company.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\doubly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\doubly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\music player using circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\music player using circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\traffic signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\traffic signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\remove dublicates from linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\pigLatin form of string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\pigLatin form of string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\Singly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\Singly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\reversing linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -31,12 +19,24 @@
       "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\doubly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\doubly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\pigLatin form of string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\pigLatin form of string.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\Singly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\Singly linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\remove dublicates from linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\traffic signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\traffic signal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\music player using circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\music player using circular linked list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\application for company.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E470FB8-2144-4140-BB83-359CAB45A906}|Assignment 1\\Assignment 1.vcxproj|solutionrelative:Assignment 1\\application for company.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,59 +46,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "application for company.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\application for company.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\application for company.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\application for company.cpp",
               "RelativeToolTip": "Assignment 1\\application for company.cpp",
-              "ViewState": "AQIAAAcBAAAAAAAAAAAgwCIBAAAAAAAA",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAswCIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T08:14:54.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T08:14:54.509Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "music player using circular linked list.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\music player using circular linked list.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\music player using circular linked list.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\music player using circular linked list.cpp",
               "RelativeToolTip": "Assignment 1\\music player using circular linked list.cpp",
-              "ViewState": "AQIAAAcBAAAAAAAAAAAgwBMBAAADAAAA",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAswCIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T08:09:49.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T08:09:49.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "traffic signal.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\traffic signal.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\traffic signal.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\traffic signal.cpp",
               "RelativeToolTip": "Assignment 1\\traffic signal.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwFcAAAAAAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAswFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T08:08:50.561Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T08:08:50.561Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "remove dublicates from linked list.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\remove dublicates from linked list.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\remove dublicates from linked list.cpp",
               "RelativeToolTip": "Assignment 1\\remove dublicates from linked list.cpp",
-              "ViewState": "AQIAAN8AAAAAAAAAAAAgwO4AAAADAAAA",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAswG4BAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T08:00:33.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T08:00:33.044Z"
             },
             {
               "$type": "Document",
@@ -108,55 +104,56 @@
               "RelativeDocumentMoniker": "Assignment 1\\pigLatin form of string.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\pigLatin form of string.cpp",
               "RelativeToolTip": "Assignment 1\\pigLatin form of string.cpp",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFgAAABQAAAA",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAswJAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T07:57:52.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "doubly linked list.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\doubly linked list.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\doubly linked list.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\doubly linked list.cpp",
               "RelativeToolTip": "Assignment 1\\doubly linked list.cpp",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAqwDcBAAABAAAA",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAAwJABAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-28T07:56:13.16Z"
+              "WhenOpened": "2024-09-28T07:56:13.16Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "circular linked list.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\circular linked list.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\circular linked list.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\circular linked list.cpp",
               "RelativeToolTip": "Assignment 1\\circular linked list.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwD0BAAABAAAA",
+              "ViewState": "AQIAACMBAAAAAAAAAAAswD0BAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T07:55:57.202Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "reversing linked list.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\reversing linked list.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\reversing linked list.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\reversing linked list.cpp",
               "RelativeToolTip": "Assignment 1\\reversing linked list.cpp",
-              "ViewState": "AQIAAIkAAAAAAAAAAAAqwD8BAAABAAAA",
+              "ViewState": "AQIAACUBAAAAAAAAAAAswD8BAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T07:55:41.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Singly linked list.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\Singly linked list.cpp",
               "RelativeDocumentMoniker": "Assignment 1\\Singly linked list.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\Assignment 1\\Assignment 1\\Singly linked list.cpp",
               "RelativeToolTip": "Assignment 1\\Singly linked list.cpp",
-              "ViewState": "AQIAAAoBAAAAAAAAAAAqwCcBAAABAAAA",
+              "ViewState": "AQIAAA0BAAAAAAAAAAAswCcBAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-28T07:55:13.626Z"
             }
