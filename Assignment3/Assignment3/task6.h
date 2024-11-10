@@ -2,54 +2,54 @@
 #include<iostream>
 
 using namespace std;
-template<class T>
+template<class t>
 class node {
 public:
-    node<T>* left, * right;
-    T data;
+    node<t>* left, * right;
+    t data;
 
     node();
-    node(T data);
+    node(t data);
 };
 
-template<class T>
-class AVL {
+template<class t>
+class avl {
 public:
-    node<T>* root;
-    AVL();
-    int height(node<T>* ptr);
-    int get_balance(node<T>* ptr);
-    node<T>* right_rot(node<T>* ptr);
-    node<T>* left_rot(node<T>* ptr);
+    node<t>* root;
+    avl();
+    int height(node<t>* ptr);
+    int get_balance(node<t>* ptr);
+    node<t>* right_rot(node<t>* ptr);
+    node<t>* left_rot(node<t>* ptr);
     bool isempty();
-    void get_min_right(node<T>*& ptr, T& d);
-    node<T>* delete_node(node<T>*& ptr, T d);
-    node<T>* insert(node<T>* rr, node<T>* ptr);
-    void inorder(node<T>* ptr);
-    void preorder(node<T>* ptr);
-    void postorder(node<T>* ptr);
+    void get_min_right(node<t>*& ptr, t& d);
+    node<t>* delete_node(node<t>*& ptr, t d);
+    node<t>* insert(node<t>* rr, node<t>* ptr);
+    void inorder(node<t>* ptr);
+    void preorder(node<t>* ptr);
+    void postorder(node<t>* ptr);
 };
 
-/*template<class T>
-node<T>::node() {
+/*template<class t>
+node<t>::node() {
     data = 0;
-    left = right = NULL;
+    left = right = null;
 }
 
-template<class T>
-node<T>::node(T data) : data(data) {
-    left = right = NULL;
+template<class t>
+node<t>::node(t data) : data(data) {
+    left = right = null;
 }
 
-template<class T>
-AVL<T>::AVL() {
-    root = NULL;
+template<class t>
+avl<t>::avl() {
+    root = null;
 }
 
-template<class T>
-int AVL<T>::height(node<T>* ptr)
+template<class t>
+int avl<t>::height(node<t>* ptr)
 {
-    if (ptr == NULL) {
+    if (ptr == null) {
         return -1;
     }
     else {
@@ -63,47 +63,47 @@ int AVL<T>::height(node<T>* ptr)
     }
 }
 
-template<class T>
-int AVL<T>::get_balance(node<T>* ptr)
+template<class t>
+int avl<t>::get_balance(node<t>* ptr)
 {
-    if (ptr == NULL) {
+    if (ptr == null) {
         return -1;
     }
     return height(ptr->left) - height(ptr->right);
 }
 
-template<class T>
-node<T>* AVL<T>::right_rot(node<T>* ptr)
+template<class t>
+node<t>* avl<t>::right_rot(node<t>* ptr)
 {
-    node<T>* temp = ptr->left;
-    node<T>* temp2 = temp->right;
+    node<t>* temp = ptr->left;
+    node<t>* temp2 = temp->right;
     temp->right = ptr;
     ptr->left = temp2;
     return temp;
 }
 
-template<class T>
-node<T>* AVL<T>::left_rot(node<T>* ptr)
+template<class t>
+node<t>* avl<t>::left_rot(node<t>* ptr)
 {
-    node<T>* temp = ptr->right;
-    node<T>* temp2 = temp->left;
+    node<t>* temp = ptr->right;
+    node<t>* temp2 = temp->left;
     ptr->right = temp2;
     temp->left = ptr;
     return temp;
 }
 
-template<class T>
-bool AVL<T>::isempty() {
-    return root == NULL;
+template<class t>
+bool avl<t>::isempty() {
+    return root == null;
 }
 
-template<class T>
-void AVL<T>::get_min_right(node<T>*& ptr, T& d)
+template<class t>
+void avl<t>::get_min_right(node<t>*& ptr, t& d)
 {
-    if (ptr->left == NULL)
+    if (ptr->left == null)
     {
         d = ptr->data;
-        node<T>* temp = ptr;
+        node<t>* temp = ptr;
         ptr = ptr->right;
         delete temp;
     }
@@ -112,12 +112,12 @@ void AVL<T>::get_min_right(node<T>*& ptr, T& d)
     }
 }
 
-template<class T>
-node<T>* AVL<T>::delete_node(node<T>*& ptr, T d) {
-    if ((ptr == NULL))
+template<class t>
+node<t>* avl<t>::delete_node(node<t>*& ptr, t d) {
+    if ((ptr == null))
     {
-        cout << "Nothing to delete\n";
-        return NULL;
+        cout << "nothing to delete\n";
+        return null;
     }
     if (ptr->data > d) {
         ptr->left = delete_node(ptr->left, d);
@@ -127,21 +127,21 @@ node<T>* AVL<T>::delete_node(node<T>*& ptr, T d) {
         ptr->right = delete_node(ptr->right, d);
     }
     else {
-        if (ptr->left == NULL && ptr->right == NULL)
+        if (ptr->left == nullptr && ptr->right == nullptr)
         {
             delete ptr;
-            ptr = NULL;
+            ptr = null;
             return root;
         }
-        if (ptr->left == NULL)
+        if (ptr->left == null)
         {
-            node<T>* temp = ptr->right;
+            node<t>* temp = ptr->right;
             delete ptr;
             return temp;
         }
-        if (ptr->right == NULL)
+        if (ptr->right == null)
         {
-            node<T>* temp = ptr->left;
+            node<t>* temp = ptr->left;
             delete ptr;
             return temp;
         }
@@ -151,14 +151,14 @@ node<T>* AVL<T>::delete_node(node<T>*& ptr, T d) {
         if (balance == 2 && get_balance(ptr->left) >= 0) {
             return right_rot(ptr);
         }
-        else if (balance == 2 && get_balance(ptr->left) == -1) {
+        if (balance == 2 && get_balance(ptr->left) == -1) {
             ptr->left = left_rot(ptr->left);
             return right_rot(ptr);
         }
-        else if (balance == -2 && get_balance(ptr->right) <= 0) {
+        if (balance == -2 && get_balance(ptr->right) <= 0) {
             return left_rot(ptr);
         }
-        else if (balance == -2 && get_balance(ptr->right) == 1) {
+        if (balance == -2 && get_balance(ptr->right) == 1) {
             ptr->right = right_rot(ptr->right);
             return left_rot(ptr);
         }
@@ -166,8 +166,8 @@ node<T>* AVL<T>::delete_node(node<T>*& ptr, T d) {
     return ptr;
 }
 
-template<class T>
-node<T>* AVL<T>::insert(node<T>* rr, node<T>* ptr)
+template<class t>
+node<t>* avl<t>::insert(node<t>* rr, node<t>* ptr)
 {
     if (rr == nullptr) {
         return ptr;
@@ -182,7 +182,7 @@ node<T>* AVL<T>::insert(node<T>* rr, node<T>* ptr)
         rr->right = insert(rr->right, ptr);
     }
     else {
-        cout << "NO duplicates are allowed\n";
+        cout << "no duplicates are allowed\n";
         return rr;
     }
     int balance = get_balance(rr);
@@ -206,30 +206,30 @@ node<T>* AVL<T>::insert(node<T>* rr, node<T>* ptr)
     return rr;
 }
 
-template<class T>
-void AVL<T>::inorder(node<T>* ptr)
+template<class t>
+void avl<t>::inorder(node<t>* ptr)
 {
-    if (ptr != NULL) {
+    if (ptr != null) {
         inorder(ptr->left);
         cout << ptr->data << endl;
         inorder(ptr->right);
     }
 }
 
-template<class T>
-void AVL<T>::preorder(node<T>* ptr)
+template<class t>
+void avl<t>::preorder(node<t>* ptr)
 {
-    if (ptr != NULL) {
+    if (ptr != null) {
         cout << ptr->data << endl;
         preorder(ptr->left);
         preorder(ptr->right);
     }
 }
 
-template<class T>
-void AVL<T>::postorder(node<T>* ptr)
+template<class t>
+void avl<t>::postorder(node<t>* ptr)
 {
-    if (ptr != NULL) {
+    if (ptr != null) {
         postorder(ptr->left);
         postorder(ptr->right);
         cout << ptr->data << endl;

@@ -1,86 +1,109 @@
+#include "task9.h"
 #include <iostream>
 using namespace std;
 
-class node {
-public:
-    int data;
-    node* left;
-    node* right;
-
-    node(int val) {
-        data = val;
-        left = right = NULL;
-    }
-    node() {
-        data = 0;
-        left = right = NULL;
-    }
-};
-
-node* buildTree(int* pre_order, int* post_order, int& preIndex, int start, int end, int size)
+node::node(int val)
 {
-    if (preIndex >= size || start > end) // Base case
-        return nullptr;
+    left = right = NULL;
+    data = val;
+}
 
-    // Creating root from preorder because the first element in preorder is always the root
-    node* root = new node(pre_order[preIndex++]);
+queue_node::queue_node(node* n)
+{
+    data = n;
+    next = NULL;
+}
 
-    // When there is only one element, no need to find left and right children
-    if (start == end) return root;
+queue::queue()
+{
+    front = back = NULL;
 
-    // Find the index of the next element in preorder within the postorder array
+}
+
+bool queue::is_empty()
+{
+    return front == NULL;
+}
+
+void queue::enqueue(node* x)
+{
+    queue_node* new_node = new queue_node(x);
+    if (is_empty()) {
+        front = back = new_node;
+    }
+    else {
+        back->next = new_node;
+        back = new_node;
+    }
+}
+
+node* queue::dequeue()
+{
+    if (is_empty()) {
+        return NULL;
+    }
+    queue_node* temp = front;
+    front = front->next;
+    node* data = temp->data;
+    delete temp;
+    return data;
+}
+
+queue::~queue() {
+    while (!is_empty()) {
+        dequeue();
+    }
+}
+
+binary_tree::binary_tree() {
+    root = NULL;
+}
+void binary_tree::insert_rec(int pre[], int post[], int& pre_idx, int start, int end, int size, node*& ptr)
+{
+    if (pre_idx >= size || start > end)
+    {
+        ptr = NULL;
+        return;
+    }
+    ptr = new node(pre[pre_idx++]);
+    if (start == end) return;
+
     int i;
     for (i = start; i <= end; i++) {
-        if (post_order[i] == pre_order[preIndex]) break;
+        if (pre[pre_idx] == post[i]) break;
     }
-
-    // If we found a match, recursively construct the left and right subtrees
-    if (i <= end) {
-        root->left = buildTree(pre_order, post_order, preIndex, start, i, size);
-        root->right = buildTree(pre_order, post_order, preIndex, i + 1, end - 1, size);
-    }
-
-    return root;
-}
-
-node* create_tree(int* pre_order, int* post_order, int size)
-{
-    int preIndex = 0;
-    return buildTree(pre_order, post_order, preIndex, 0, size - 1, size);
-}
-
-void inorder(node* root)
-{
-    if (root) {
-        inorder(root->left);
-        cout << root->data << " ";
-        inorder(root->right);
+    if (i <= end)
+    {
+        insert_rec(pre, post, pre_idx, start, i, size, ptr->left);
+        insert_rec(pre, post, pre_idx, i + 1, end - 1, size, ptr->right);
     }
 }
 
-int main()
+void binary_tree::insert(int pre[], int post[], int& size)
 {
-    int size;
-    cout << "Enter the number of nodes: ";
-    cin >> size;
+    int start = 0;
+    insert_rec(pre, post, start, 0, size - 1, size, root);
+}
 
-    int* pre_order = new int[size];
-    int* post_order = new int[size];
 
-    cout << "Enter preorder array: ";
-    for (int i = 0; i < size; i++) cin >> pre_order[i];
+void binary_tree::display()
+{
+    if (!root)
+    {
+        cout << "tree is empty\n";
+        return;
+    }
 
-    cout << "Enter postorder array: ";
-    for (int i = 0; i < size; i++) cin >> post_order[i];
+    cout << "level order traversal: ";
+    queue q;
+    q.enqueue(root);
 
-    node* root = create_tree(pre_order, post_order, size);
-
-    cout << "Inorder traversal of constructed tree: ";
-    inorder(root);
+    while (!q.is_empty())
+    {
+        node* curr = q.dequeue();
+        cout << curr->data << " ";
+        if (curr->left) q.enqueue(curr->left);
+        if (curr->right) q.enqueue(curr->right);
+    }
     cout << endl;
-
-    delete[] pre_order;
-    delete[] post_order;
-
-    return 0;
 }

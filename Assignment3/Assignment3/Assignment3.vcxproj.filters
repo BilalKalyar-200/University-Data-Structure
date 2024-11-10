@@ -54,6 +54,18 @@
     <ClCompile Include="task9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="task8_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="task8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="task3_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="task9_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="task7.h">
@@ -72,6 +84,21 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="task5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task3_queue.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="max_sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="task9.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
