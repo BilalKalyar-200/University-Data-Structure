@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\LAB6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\recursivesum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\linkedlist_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\linkedlist_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\bank_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\bank_queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5E4D1659-C79C-4BBE-83E7-AE7039B1DAA2}|LAB6\\LAB6.vcxproj|solutionrelative:LAB6\\recursivesum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +22,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "linkedlist_queue.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\linkedlist_queue.cpp",
               "RelativeDocumentMoniker": "LAB6\\linkedlist_queue.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\linkedlist_queue.cpp",
               "RelativeToolTip": "LAB6\\linkedlist_queue.cpp",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAcwH0AAABCAAAA",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAIwLEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T10:09:04.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T10:09:04.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "recursivesum.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp",
               "RelativeDocumentMoniker": "LAB6\\recursivesum.cpp",
               "ToolTip": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\recursivesum.cpp",
               "RelativeToolTip": "LAB6\\recursivesum.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-30T10:03:38.467Z"
+              "WhenOpened": "2024-09-30T10:03:38.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "bank_queue.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\LAB6\\LAB6\\bank_queue.cpp",
               "RelativeDocumentMoniker": "LAB6\\bank_queue.cpp",

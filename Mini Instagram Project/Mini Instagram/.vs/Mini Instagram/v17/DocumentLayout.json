@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\Mini Instagram Project\\Mini Instagram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F2ED08-31DE-40A0-809B-CC718538A0E3}|Mini Instagram\\Mini Instagram.vcxproj|E:\\DS\\University-Data-Structure\\Mini Instagram Project\\Mini Instagram\\Mini Instagram\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0F2ED08-31DE-40A0-809B-CC718538A0E3}|Mini Instagram\\Mini Instagram.vcxproj|solutionrelative:Mini Instagram\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Mini Instagram Project\\Mini Instagram\\Mini Instagram\\main.cpp",
+              "RelativeDocumentMoniker": "Mini Instagram\\main.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Mini Instagram Project\\Mini Instagram\\Mini Instagram\\main.cpp",
+              "RelativeToolTip": "Mini Instagram\\main.cpp",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAAADgBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T03:59:35.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

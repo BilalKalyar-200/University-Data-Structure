@@ -1,2 +1,5 @@
-﻿  task9_main.cpp
+﻿  task8.cpp
+  task8_main.cpp
+  Generating Code...
+E:\DS\University-Data-Structure\Assignment3\Assignment3\task8.cpp(188,1): warning C4715: 'AVL_song::delete_node': not all control paths return a value
   Assignment3.vcxproj -> E:\DS\University-Data-Structure\Assignment3\x64\Debug\Assignment3.exe

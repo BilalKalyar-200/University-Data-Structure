@@ -1,8 +1,3 @@
-//The task is...
-//Implement the following functions for the Binary Search Tree :
-//a) Function to insert a node in BST.
-//b) Function to search a specific node in BST.
-//c) Function to display all the nodes.
 //#include "task1.h"
 //#include <iostream>
 //using namespace std;

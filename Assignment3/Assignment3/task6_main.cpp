@@ -1,25 +1,8 @@
-//TASK IS--->
-//Provide a C++ implementation of AVL tree using Templates that must include :
-// Recursive Height
-// Finding Balancing Factor
-// RR_Rotation
-// LL_Rotation
-// RL_Rotation
-// LR_Rotation
-// AVL node deletion
-// AVL node insertion
-// Display Nodes
-//Test All Functions.It must Run on All user defined Inputs.
-//You should consider the data of published research papers in a journal.The data in a node include
-//the title, authors name, publication date, publication id.The primary data to create BST in this case
-//is the publication id(integer data).
-//TEMPLATE BASED AVL IMPLEMENTATION
 //#include<iostream>
 //using namespace std;
 //#include "task6.h"
-//
 //int main() {
-//    AVL<int> obj;
+//    avl <int> obj;
 //    while (true) 
 //    {
 //        cout << "1.Insert\n2.Delete\n3.Height\n4.Isempty\n5.inorder\n6.Preorder\n7.Postorder\n8.Exit\n";

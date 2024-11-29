@@ -34,8 +34,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,8 +50,7 @@
               "RelativeToolTip": "Lab7\\FileName.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAOoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-11T03:52:12.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-11T03:52:12.932Z"
             },
             {
               "$type": "Document",
@@ -59,8 +62,7 @@
               "RelativeToolTip": "Lab7\\folder_with_array.cpp",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAG0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-08T15:49:09.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-08T15:49:09.008Z"
             },
             {
               "$type": "Document",
@@ -92,8 +94,8 @@
               "Title": "BFT_linkedlist.cpp",
               "DocumentMoniker": "E:\\DS\\University-Data-Structure\\Lab7\\Lab7\\BFT_linkedlist.cpp",
               "RelativeDocumentMoniker": "Lab7\\BFT_linkedlist.cpp",
-              "ToolTip": "E:\\DS\\University-Data-Structure\\Lab7\\Lab7\\BFT_linkedlist.cpp*",
-              "RelativeToolTip": "Lab7\\BFT_linkedlist.cpp*",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\Lab7\\Lab7\\BFT_linkedlist.cpp",
+              "RelativeToolTip": "Lab7\\BFT_linkedlist.cpp",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAAKUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T11:09:51.963Z",

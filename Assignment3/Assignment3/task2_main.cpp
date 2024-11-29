@@ -1,5 +1,3 @@
-////The task is to convert a sorted array into BST tree of minimal height
-
 //#include "task2.h"
 //#include<iostream>
 //using namespace std;

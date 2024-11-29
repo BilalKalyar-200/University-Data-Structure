@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DS\\University-Data-Structure\\HEAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\Task4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\task5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Min_heap_all.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\Min_heap_all.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\Task3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\Task2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\task1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\sort_min_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6805C00-2080-4764-889D-E9D9F0B6685D}|HEAP\\HEAP.vcxproj|solutionrelative:HEAP\\sort_min_heap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "task5.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\task5.cpp",
+              "RelativeDocumentMoniker": "HEAP\\task5.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\task5.cpp",
+              "RelativeToolTip": "HEAP\\task5.cpp",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T16:38:17.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task4.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task4.cpp",
+              "RelativeDocumentMoniker": "HEAP\\Task4.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task4.cpp",
+              "RelativeToolTip": "HEAP\\Task4.cpp",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAALYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T15:31:22.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task3.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task3.cpp",
+              "RelativeDocumentMoniker": "HEAP\\Task3.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task3.cpp",
+              "RelativeToolTip": "HEAP\\Task3.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAYwHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T13:21:48.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task2.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task2.cpp",
+              "RelativeDocumentMoniker": "HEAP\\Task2.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Task2.cpp",
+              "RelativeToolTip": "HEAP\\Task2.cpp",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAYwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T13:09:30.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sort_min_heap.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\sort_min_heap.cpp",
+              "RelativeDocumentMoniker": "HEAP\\sort_min_heap.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\sort_min_heap.cpp",
+              "RelativeToolTip": "HEAP\\sort_min_heap.cpp",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAIwGMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T11:18:37.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "task1.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\task1.cpp",
+              "RelativeDocumentMoniker": "HEAP\\task1.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\task1.cpp",
+              "RelativeToolTip": "HEAP\\task1.cpp",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAYwI4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T10:17:04.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Min_heap_all.cpp",
+              "DocumentMoniker": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Min_heap_all.cpp",
+              "RelativeDocumentMoniker": "HEAP\\Min_heap_all.cpp",
+              "ToolTip": "E:\\DS\\University-Data-Structure\\HEAP\\HEAP\\Min_heap_all.cpp",
+              "RelativeToolTip": "HEAP\\Min_heap_all.cpp",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAANIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T06:45:32.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

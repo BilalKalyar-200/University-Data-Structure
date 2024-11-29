@@ -1,7 +1,4 @@
-////You are working on a search engine optimization project for a large e - commerce platform.
-////The platform uses a Binary Search Tree(BST) to manage and retrieve product prices
-////efficiently.To enhance the user experience, the platform needs to display the kth smallest
-////price among the available products.
+//
 //
 //#include "task5.h"
 //#include <iostream>

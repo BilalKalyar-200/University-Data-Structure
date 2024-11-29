@@ -1,6 +1,6 @@
-////You are tasked with merging two AVL trees,
-////representing different subsets of transaction amounts, into a single AVL tree while
-////maintaining the AVL tree properties.
+//You are tasked with merging two AVL trees,
+//representing different subsets of transaction amounts, into a single AVL tree while
+//maintaining the AVL tree properties.
 //#include "task7.h"
 //#include<iostream>
 //using namespace std;
